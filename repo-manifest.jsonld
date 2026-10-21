@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/web-compile/commit/22218c310227990799cd48705ef86d6af0ca5abc",
       "git:hexsha": "22218c310227990799cd48705ef86d6af0ca5abc",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "v0.2.3"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "v0.2.3",
+      "repolex:parsedAt": "2026-10-21T21:42:35.607540+00:00"
     },
     {
       "@id": "https://repolex.ai/r/executablebooks/web-compile/commit/788d241e1fb6d262110e53454d01645f2b36c87c",

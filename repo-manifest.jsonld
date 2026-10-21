@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/executablebooks/web-compile/commit/22218c310227990799cd48705ef86d6af0ca5abc",
       "git:hexsha": "22218c310227990799cd48705ef86d6af0ca5abc",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.2.3"
     },
     {
